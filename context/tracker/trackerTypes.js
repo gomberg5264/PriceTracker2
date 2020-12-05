@@ -1,0 +1,11 @@
+export const TRACKER_START = "TRACKER_START"
+export const TRACKER_SUCCESS = "TRACKER_SUCCESS"
+export const TRACKER_FAILURE = "TRACKER_FAILURE"
+export const TRACKER_RESET = "TRACKER_RESET"
+
+// ITEMS
+
+export const ITEM_DELETE = "ITEM_DELETE"
+export const ITEM_CREATE = "ITEM_CREATE"
+export const ITEM_GET_SINGLE = "ITEM_GET_SINGLE"
+export const ITEM_EDIT = "ITEM_EDIT"
